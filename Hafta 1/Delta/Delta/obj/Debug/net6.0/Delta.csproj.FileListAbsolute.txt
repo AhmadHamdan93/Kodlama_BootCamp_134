@@ -1,0 +1,15 @@
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\bin\Debug\net6.0\Delta.exe
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\bin\Debug\net6.0\Delta.deps.json
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\bin\Debug\net6.0\Delta.runtimeconfig.json
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\bin\Debug\net6.0\Delta.dll
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\bin\Debug\net6.0\Delta.pdb
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.csproj.AssemblyReference.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.AssemblyInfoInputs.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.AssemblyInfo.cs
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.csproj.CoreCompileInputs.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.dll
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\refint\Delta.dll
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.pdb
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\Delta.genruntimeconfig.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Delta\Delta\obj\Debug\net6.0\ref\Delta.dll
