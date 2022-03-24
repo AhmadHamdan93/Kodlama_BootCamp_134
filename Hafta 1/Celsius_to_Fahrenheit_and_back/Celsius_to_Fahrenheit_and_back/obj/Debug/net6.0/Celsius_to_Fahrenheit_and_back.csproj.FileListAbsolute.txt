@@ -1,0 +1,15 @@
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\bin\Debug\net6.0\Celsius_to_Fahrenheit_and_back.exe
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\bin\Debug\net6.0\Celsius_to_Fahrenheit_and_back.deps.json
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\bin\Debug\net6.0\Celsius_to_Fahrenheit_and_back.runtimeconfig.json
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\bin\Debug\net6.0\Celsius_to_Fahrenheit_and_back.dll
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\bin\Debug\net6.0\Celsius_to_Fahrenheit_and_back.pdb
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.csproj.AssemblyReference.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.AssemblyInfoInputs.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.AssemblyInfo.cs
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.csproj.CoreCompileInputs.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.dll
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\refint\Celsius_to_Fahrenheit_and_back.dll
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.pdb
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\Celsius_to_Fahrenheit_and_back.genruntimeconfig.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\Celsius_to_Fahrenheit_and_back\Celsius_to_Fahrenheit_and_back\obj\Debug\net6.0\ref\Celsius_to_Fahrenheit_and_back.dll
