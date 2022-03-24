@@ -1,0 +1,15 @@
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\bin\Debug\net6.0\Prim_Numbers.exe
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\bin\Debug\net6.0\Prim_Numbers.deps.json
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\bin\Debug\net6.0\Prim_Numbers.runtimeconfig.json
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\bin\Debug\net6.0\Prim_Numbers.dll
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\bin\Debug\net6.0\Prim_Numbers.pdb
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.csproj.AssemblyReference.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.AssemblyInfoInputs.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.AssemblyInfo.cs
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.csproj.CoreCompileInputs.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.dll
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\refint\Prim_Numbers.dll
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.pdb
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\Prim_Numbers.genruntimeconfig.cache
+D:\Kodliyoruz_Bootcamp_134\Hafta 1\Prim_Numbers\Prim_Numbers\obj\Debug\net6.0\ref\Prim_Numbers.dll
