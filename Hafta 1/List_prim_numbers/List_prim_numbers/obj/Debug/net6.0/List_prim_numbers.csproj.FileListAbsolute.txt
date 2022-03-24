@@ -1,0 +1,15 @@
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\bin\Debug\net6.0\List_prim_numbers.exe
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\bin\Debug\net6.0\List_prim_numbers.deps.json
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\bin\Debug\net6.0\List_prim_numbers.runtimeconfig.json
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\bin\Debug\net6.0\List_prim_numbers.dll
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\bin\Debug\net6.0\List_prim_numbers.pdb
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.csproj.AssemblyReference.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.AssemblyInfoInputs.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.AssemblyInfo.cs
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.dll
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\refint\List_prim_numbers.dll
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.pdb
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\List_prim_numbers.genruntimeconfig.cache
+C:\Users\Hamdan\source\repos\Kodlama_BootCamp_134\Hafta 1\List_prim_numbers\List_prim_numbers\obj\Debug\net6.0\ref\List_prim_numbers.dll
